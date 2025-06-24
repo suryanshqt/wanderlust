@@ -91,4 +91,5 @@ The server will start on [http://localhost:8080](http://localhost:8080).
 ISC
 
 ---
-**Author:** Sujal Pareek
+**Author:** Suryansh Gupta
+
